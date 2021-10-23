@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasu Patel
 - 👀 I’m interested in programing and computer architechture.
-- 🌱 I’m currently a seconf year Computer Engineering student at Ryerson University.
+- 🌱 I’m currently attending Ryerson University and B.Eng Candidate for Computer Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

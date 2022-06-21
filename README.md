@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasu Patel
 - 👀 I’m interested in programing and computer architechture.
-- 🌱 I’m a Bachelor of Engineering (Computer) student at Toronto Metropolitan (formerly Ryerson) University, Toronto.
+- 🌱 I’m a Bachelor of Engineering (Computer) student at Toronto Metropolitan University (formerly Ryerson University), Toronto.
 - 📫 I can be reached through my linkedin. https://www.linkedin.com/in/vasu-patel8/
 
 <!---

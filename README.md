@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasu Patel
-- 👀 I’m interested in programing and computer architechture.
-- 🌱 I’m a BEng (Computer) student at Toronto Metropolitan University (formerly Ryerson University), Toronto.
+- 👀 I’m interested in programing, software and web development.
+- 🌱 I’m a BEng student in Computer Engineering at Toronto Metropolitan University (formerly Ryerson University), Toronto.
 - 📫 I can be reached through my linkedin. https://www.linkedin.com/in/vasu-patel8/
 - 💻 Portfolio Website: https://vasup86.github.io/personal-website/
 
